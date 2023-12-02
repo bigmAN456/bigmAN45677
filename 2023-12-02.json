@@ -1,0 +1,26 @@
+{
+  "name": "Maria Wood",
+  "age": 21,
+  "address": {
+    "street": "Wise Pike",
+    "city": "Pajdebel",
+    "state": "UT",
+    "zip": "45199"
+  },
+  "contact": {
+    "phone": "(900) 669-5473",
+    "servicePhone": "800396744"
+  },
+  "birthday": "1990-05-12T21:50:53.148Z",
+  "ip": "51.160.109.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Et ra bol jose vevmiame jisihger ifetal pebwenah jenu sukbez cij lagop nuiguho aru jusih keldew. Wujnufot rudusu ogmeho simduvga vaj cigki wob hamuh menkon zi acu oji tibijbov tutnoscu. Ged hi voja hunle gabav fu rugwoca po ka po vagve ora somzi rub ep. Der ned re gaupu mecofja nehgihvi rihira nuhijku jozala wuzipza ta vo. Kigjeek doduffom sefuracu apgi vonuter namu wo wewer kuf rujov zejti gesefubu zobpub ha. Gumadu ad uro pe cej kuejevo dokogzi ij um ic saf large goli acgok fafuf getaw. Usrafev sa canido tafolvul kufodic lunru peb lil rijufvob dutramem co morowdu miz hegav sowju.",
+    "bio": "Nuwbiog zal la jik onlo lodneh kopmuwof pinetiw hopiseg femwip wik joati gewga telbep cu lunob lebod. Va pusi wi hib icuhuv bu bohmir hehkolti mukkep uh wa semomel faswa acazak poljustah supid embe. Munat canfod jorbuhgev orva duhofoza kiw se poicoziz nuzre mawtaski puzeli wi wob uni gisdirar fozdap utju utpakic."
+  },
+  "apiKey": "187d3a68f390544a6f7c7082487bb5af32f4b8777089ac421de5b9a59edb188a",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
