@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Todd",
+  "age": 36,
+  "address": {
+    "street": "Nowehe Street",
+    "city": "Obobizah",
+    "state": "WA",
+    "zip": "17146"
+  },
+  "contact": {
+    "phone": "(659) 515-1195",
+    "servicePhone": "800291923"
+  },
+  "birthday": "1994-06-28T21:30:21.429Z",
+  "ip": "24.134.108.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Jergag rila suof honhi nertun ri foz guuzeb gohobut wif zug vage kedpukju micinhu. Ser kof bu lirrup te tedo haso wis naru obovew van makoewu palsi emakuwpa uce lona gik elsulte. Ad hotpanbo irka havi vun dedju juznuri jinne cifjioti difper hevub zo tum wofcig onkef.",
+    "bio": "Zoni gobmajpun ru cu jevpulo toknoc purihif neejmi padev girevcu ne lufe tegaski up disen aldevi pufle kadi. Buhjivva upojolko legruzsun wetkopa vap muec enjihopu sefezu cukade rov fosi cu caon. Ced ovogam sajned ta ra cagochu momag jocjihpet pig ciaj tek tohhol dil rir ipke tudwigto. Zi egmejzad fetabjel pul afe punruc sidpoz ipedi vuejci ihujed hag ipi voksew lum na."
+  },
+  "apiKey": "80213966c007cde8816c605483e7c0fe079828934fcde628cfc99d077565287d",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
