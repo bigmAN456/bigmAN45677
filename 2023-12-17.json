@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Clarke",
+  "age": 18,
+  "address": {
+    "street": "Ilazil River",
+    "city": "Avrazu",
+    "state": "WI",
+    "zip": "12763"
+  },
+  "contact": {
+    "phone": "(870) 872-8311",
+    "servicePhone": "800441543"
+  },
+  "birthday": "1970-12-11T04:56:31.842Z",
+  "ip": "122.1.53.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Peeh duhevile zub miraam nehuwe lezgilmen hezmil zunosnab suj tom rah bof. Wu umle zuputjog kadzu elgavuz rac wudhehu risa dopo muslusco ileoseore jab pa zicad. Palaz genawat waz fi cagoc gov odvuc gamcajuge fa zu tilesjif akizi ne azevicu joz zuwdite afiuv rulul.",
+    "bio": "Lilveeno wa wenfejnig daf hicev cot da gawnik vo le levce rop kecidmi agi von von aja. Zugpi ijamac zop vifar donu jikejwos wu fusap nigcuhbo rezbe vemsuivu mi fi zohbiwjur ziwu bil ig kajpufah. Ze lulmovfar deku gubuz hanopes gaso uru beiba ku lo fezura cub talu cu ba pocre hop. Depope cidtesdo ko goca goz amre pol ge fazi cov dohibu rowceg lapu mikvinak jarcico. Jupmihas bar vagjek mugcaeca id abuja zu hinlol gerbolgil vow vur fuob sokebuza atara nid mi. Gikcilbij co ev ev cajalcig lem bov ifafukju wuplul ze uwohe po. Upal kumuma hepoowi je pusakmal egaru itahaneb nufit seguv dof zilgu vistihgev niekope."
+  },
+  "apiKey": "595979ae8570f68a4388f415691a8280a531cbe510cdad282e07b3603c65dbcc",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
