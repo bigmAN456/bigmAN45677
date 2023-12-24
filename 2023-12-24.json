@@ -1,0 +1,26 @@
+{
+  "name": "Leon Henry",
+  "age": 42,
+  "address": {
+    "street": "Vofot Plaza",
+    "city": "Cetdufpa",
+    "state": "DC",
+    "zip": "19449"
+  },
+  "contact": {
+    "phone": "(584) 730-7732",
+    "servicePhone": "800384656"
+  },
+  "birthday": "2001-05-29T22:23:56.562Z",
+  "ip": "72.7.179.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu cokihi zem coniko zehaj javeb ces bo sa pijo cerukubaz pada kepsobgi igiluip med mizpa pofdugiz. Ipazam putevi wad la zasa gelif foduhac ocvim reti fasfajhef tolgor owebaptu sik ibuluw moszih ol efkiv. Cidepig ti ate zosuz loilo ihefaji be emcitbu vi zadanpol kit jel soj. Eb lawe fugedre embijgov nufitpi rulozcu wew ahros lav tigvoz luddur varketjog.",
+    "bio": "Ficuh ropzivu tuweap kirgek ibregle seifje hit patitcoh izanawat cicimu cacfi renteb op. Vokhi homaszu racija fam sacmaran vog javafnow nodri giz soro jadsiovu wetup buh foetupin tek junfim ra. Hiruleli toh uv na jeh nazedto fe pu zahkac ne dizzabasi zit az."
+  },
+  "apiKey": "b5fb279f4dff9904fd7c7a72b10614a68885f2b1151f7a8a9895743ceb002b65",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
