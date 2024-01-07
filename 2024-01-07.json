@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Crawford",
+  "age": 29,
+  "address": {
+    "street": "Nocar Manor",
+    "city": "Mumupen",
+    "state": "NJ",
+    "zip": "00206"
+  },
+  "contact": {
+    "phone": "(827) 685-2888",
+    "servicePhone": "800976345"
+  },
+  "birthday": "1994-10-31T14:57:04.808Z",
+  "ip": "78.10.204.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Veroak bekilitam wu tovzahmu tavarozi rom ovuab oh lake maicah efeadiva wug echozu. Vafugpe fin bika bihac suwih du pilcupzo evhum ufamicwev jato uchot nov dilgub fuwmozol wuigi fop nosanzo pun. Buwadap joz wohu zo abezolcan vovi gibumnem lal kekutkor zup raunizas ideli diceji jomu uveuc ow ikwif gettaoli.",
+    "bio": "Nieke olu evupac luvag hispeid venadbil mujba higo hitmo mo zogu gukacpis uvbe ku ubo uca korej kagu. Nedufu mir fupojaj je fe im unade uji eji ozcoldij zuaso zabake lisukmi tuv megvek monikno jahlu olo. Utarajo miebo mubgafuh lidejaeh uv uze har ohoswi ezotoke tetifowes ge til ete."
+  },
+  "apiKey": "2864aaa739b69e5df34758428d9f80f201efb171224dedc5d0da89f8f28da1ac",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
