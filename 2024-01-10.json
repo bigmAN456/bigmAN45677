@@ -1,0 +1,26 @@
+{
+  "name": "Adele Allen",
+  "age": 48,
+  "address": {
+    "street": "Acobaj Avenue",
+    "city": "Bovejo",
+    "state": "LA",
+    "zip": "46810"
+  },
+  "contact": {
+    "phone": "(305) 320-4722",
+    "servicePhone": "800368663"
+  },
+  "birthday": "1984-10-30T22:21:10.813Z",
+  "ip": "52.146.127.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Oliebi wojpem vapa diluzpaj eji kev je dusuode kupsiji meh bus het lokkaf mi tevafez tuttofe. Gim manoj tebzulwo hutcat suz kis bevfa gamzavhi vathadu fi gebbo uru mefewzo vuswoh. Bu zunbuce ozufiw ki ubaguca jongojgig powra idiid fuofuco jeazini ferah ufule.",
+    "bio": "Ej ceg asezoroh wop sizunu si cibebab ivzofvih mu nemep jicfekono rurle bokeg um. Wif je funila jek jafa ricsu ahedni tear keruzgud ruipoto ipagaja zebzeri. Duafiive lutpeci ot urme nafbeeva gamujis ho ba sa geezsan etapoc emo rojjer jobdef hic."
+  },
+  "apiKey": "64478a4cfcac350f0dd85f27cf65c471e332d95feb5c59c5a4454db483ac0d8d",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
