@@ -1,0 +1,26 @@
+{
+  "name": "Milton Page",
+  "age": 42,
+  "address": {
+    "street": "Zuvel Mill",
+    "city": "Velbonok",
+    "state": "ID",
+    "zip": "79882"
+  },
+  "contact": {
+    "phone": "(642) 509-7232",
+    "servicePhone": "800733985"
+  },
+  "birthday": "2005-05-12T13:08:43.018Z",
+  "ip": "82.207.126.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Ir tozte hokkup kom ikekof vangupu hegjaj ma jitis sulu sofebbun mopim. Gewe gingu cam daetagu hufrep befi jawon lecev webhasro fugamof mego jufzolmo tihhoibo. Hoc jilzip juhi no kemefi sa eguten suheka awubabur bupvirref ze havzof zi wevpazu sinat. Piwoneg omazuz vubo zahakan ce fa mon ce zavoste ugvoipe fewsugcah sovtav ka. Pidkusso su opi guazo al jigel sodvuh uliti ne jomig woslipmek fo. Ojzos fudapobug pu niimaki rinozo wi tuw iwucac hu hec torpu dalku. Adiniw wufacep eshoz vabno mat ow do kohwiwgud ruelwu hawsuphef woarezu rojilo ag vewbog zol regraze eb.",
+    "bio": "Fu guhrojo hiloh ofih giv mocik wahjoja neotho tip tahli migzoca huvovkom keniib ne linilil seludumi nushuno huw. Cobozeade tifota zoodoih so japwin av vignag okke bo iri ma larowu cis ile wuszorili babi. Riwsi higkudhom az kacigji dohbip taar le ha medape jaroj pubtotiw muvdi ha ufaso dahelo semijew okoloksal."
+  },
+  "apiKey": "03de2b33ce06e9a4c499311ffdde5eb9fbf139fef35435b1cd05ed3ec63f7335",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
