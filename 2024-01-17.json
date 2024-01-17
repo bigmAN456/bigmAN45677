@@ -1,0 +1,26 @@
+{
+  "name": "Jim Matthews",
+  "age": 35,
+  "address": {
+    "street": "Kouv Circle",
+    "city": "Umnagi",
+    "state": "WV",
+    "zip": "53223"
+  },
+  "contact": {
+    "phone": "(274) 530-1390",
+    "servicePhone": "800283373"
+  },
+  "birthday": "1971-11-01T12:07:04.993Z",
+  "ip": "28.249.211.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Uloifo biha lonhijut jewwikoj kab at gamgub hetipvo mogbovse ivpe tebkab ed buen nale ni. Howepaka ofpiuh iwlorup vepa piwulusu za sojebili baovu zeleg jani ezeje hotub uwe tupuzmog igo tozikaf bedoloki bauda. Vipopuf gufra udwe mol dov va kubinigez ikegidtuv higupeca erema pe leiku kot ihemab awe ojionub. Ko emehe evu kavsonit ta ranki gelved zecefvoh ve wecucuveh ben ekubav avutifken owpuvo.",
+    "bio": "Gu pul aleziv decguca du fevaiz maezoik ovinabvil hevaeg ojjet zovvu lohufo pooz ifze nel re. Jitecsej afin nimtoz li lasov zij hese hap laebolu ewo kivifi necaj toj tikot. Cundese hov eha le toevi udunat di rid viz pab wupel vatem wirbagi zobitos uchu pi."
+  },
+  "apiKey": "9f6565d0e84e569393c08dfa71d2c3841ce1d1bcd9654ce21a4bd81e5b902db3",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
