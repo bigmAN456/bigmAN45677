@@ -1,0 +1,26 @@
+{
+  "name": "Susan Romero",
+  "age": 28,
+  "address": {
+    "street": "Amoone Lane",
+    "city": "Tonzini",
+    "state": "RI",
+    "zip": "91316"
+  },
+  "contact": {
+    "phone": "(967) 779-3437",
+    "servicePhone": "800323838"
+  },
+  "birthday": "1961-10-27T22:40:03.187Z",
+  "ip": "162.105.228.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa dusutu ter finorlam can welusfaj sacra tam dohzomwu usvul rot warlijuk ibudohi zulebcul jic vi ok. Vutocra ib sefim sogwueha lahwes kewevnat fa gagru ji webada tollelo umuhupuk fi jin. To updat vol tu zuto cathu kascidjuj haehidaf tuwzal afi uh negdo ogki retbil ta eg.",
+    "bio": "Wid ol orenigo gaogi urzuk pu rewabkik koehjad remcigot dawik vur ma. Nitawa ted lotup deeko tiok rotoir hofa ena vofu fu wawve rasovta pidpewti as kerapi zag re ronzujve. Vuiv janni ca mazveb ja po tikujpib fag fogug ti irupeefe ca otnidvu ucodatuc sopza am norlev caf."
+  },
+  "apiKey": "9efbead26a9f78d44d22de0fbc09a65e7ed647ee7d3d96bb474477af5b57ad94",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
