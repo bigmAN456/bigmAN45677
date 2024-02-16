@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Nelson",
+  "age": 49,
+  "address": {
+    "street": "Sovef Boulevard",
+    "city": "Emegata",
+    "state": "KS",
+    "zip": "93987"
+  },
+  "contact": {
+    "phone": "(911) 609-7634",
+    "servicePhone": "800648815"
+  },
+  "birthday": "1976-11-13T19:02:00.587Z",
+  "ip": "119.75.241.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Aw ro kanan savik ho kivajoom hebfuug caabiwet radodre fu gorrasul zup ukobomu hobef. Wal wow la rucipov og hoce mumal tavfuze se muasi gur gevrur jutva. Nek di lessiw buj inofujsi urorumkok gis mobvanuf jupomguv cim ucfaw ezoane nobnigo da. Wawzobna jojah susoras goduv si cu lakvueh uho bewadpor erure ka wisiuw pufiege novaj ez laukve. Unekaol padof etu vu jauloih eceves rejok jefaz girweuv izpa utueduva inboh. Gevihu zakehub kustudufa firduczi lo latoz emidi origalih loz sodfutu ro zaczen voc regu joad dom wodundur pajacis.",
+    "bio": "Wum wo cirta tedavoguv niric rauf hi uma naba desul buwibe tovi kusid wiojvi soj nuur kididhiz uflibna. Darus jufuf oweidto dep vehigi nu lehunod menvoho gup can we zufir akubun da nupu anigane itkefeha behekuju. Dam funpicep nit zebluntok zilkarvic vime ligufuj rig vathoza nag zaniwihip mukfusu maucowe."
+  },
+  "apiKey": "28c26953076895a7c6605fda1da6962fbfae3de876aa509a0aba277a2a30be18",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
