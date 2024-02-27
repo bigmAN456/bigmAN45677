@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Cannon",
+  "age": 40,
+  "address": {
+    "street": "Javuh Circle",
+    "city": "Rugedbo",
+    "state": "DE",
+    "zip": "65886"
+  },
+  "contact": {
+    "phone": "(337) 743-9873",
+    "servicePhone": "800136883"
+  },
+  "birthday": "1993-06-18T10:52:58.747Z",
+  "ip": "26.208.196.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Ergi irazvec fih akaah nojceni tut ukogite upuzotul foreb fulouco ovri sacarto ode ragtav nuhog. Lud idewozezo la wa cimar iz zon er umniba itnisur zahtujoj wugijut he liabuib faasre tum. Fe nuiwa hamzuci temmu er agho uca rosbacel lod lobmi lifo mahobpas fe kakki mewanpuj.",
+    "bio": "Jawuefo neohi ehusec tabwil mo maco odu hufospiz rojoves mudtej co kogkepel zurjekfu. Cafa jusna ug taesene zukuz ji buzaw fatacje tojzuliw mo teap ruus. Aw nekrar ogiruj eb iv cuhwaj lilus nut hicpaz gitzoszo reisla padukko duz. Faw koaka guk tozabe mos ciw tebzu nopinto sugsa ot woh epesar ehezilli wibun il."
+  },
+  "apiKey": "0cd1331b806b6672c18b99d415bdba7bc68b829b187687a2416533c8af775ed4",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
