@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Carpenter",
+  "age": 36,
+  "address": {
+    "street": "Negob Court",
+    "city": "Tipdugrun",
+    "state": "HI",
+    "zip": "86819"
+  },
+  "contact": {
+    "phone": "(328) 219-6589",
+    "servicePhone": "800763656"
+  },
+  "birthday": "1983-11-20T11:02:59.218Z",
+  "ip": "239.195.17.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Oskuz fi ciczaw upva huak uhub pi kodi kus losga tulivba nar nan egructez. Hem javepi ip von jis fojarji vozmouz leptakaw fiwvitsod noih ab foog usaol tiduvi soegu owgidsu. Gumif lo remuwo humit voctaoce tura tirih kitlapcob ifpus umuzocfo tinohina japojoh wegzodbu latana deztauz.",
+    "bio": "Kozkopak petigdon nomfeci er taebcif epzor umizehjih zutar ticaktus ivzo utciupa vo jevvahit zefoh. Cu piraf guih rubub wiajoam cernojipu kezzapa ecla wimmofuc herle geg pafpe zu. Bus udmalwog hocosi ugogizah zor dob wizolda usjogjo rechot ejwit cawuzo go."
+  },
+  "apiKey": "34cb0b0fa5538ed20878034139a6f33fc25e7493a12d849eaac2aa479e53f7e4",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
