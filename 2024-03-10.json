@@ -1,0 +1,26 @@
+{
+  "name": "Scott Griffin",
+  "age": 42,
+  "address": {
+    "street": "Vagaf Center",
+    "city": "Kebobig",
+    "state": "RI",
+    "zip": "71391"
+  },
+  "contact": {
+    "phone": "(662) 245-7504",
+    "servicePhone": "800372691"
+  },
+  "birthday": "1998-05-29T21:07:44.455Z",
+  "ip": "18.150.127.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Hurum jen bo vofuze rinda vusu ri oza pupivno eso odi hu mauljov. Hak tof hi haawi wuj vowegus hurusuj tortimup ri tonu vuchej hokib. Robnase nurwar keug tiphaeta abpikog zeliv va uziwuruw joemu ra memjece boge.",
+    "bio": "Pavoksu emero zoevfu jifib woj cog sah leuhmi soken hezotri cipfi ma dokeg fafdeope nopsil timeb hipuji. Tucop wuw ta tiwkuzza gencolne pithaaki bepimdok dupwu izucihku tocrumi wivvanos bis nuc ibicuzfe. Urpa cot fijsuer paedire ikij dug rasin dane susde tisnajzim vubo parpubmul ivala si nihijdek poido. Ucutut jofne caruj ubo upinab ta cijid cumuv awkawcek wabujat ah juwak fi ebbiat damgi."
+  },
+  "apiKey": "55af9f0b920be6b75c38e17c220f121b61ae71b9cbbbbe0e0bc7b01d25001ca8",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
