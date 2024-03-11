@@ -1,0 +1,26 @@
+{
+  "name": "Jon Peterson",
+  "age": 63,
+  "address": {
+    "street": "Uzuwo Path",
+    "city": "Omioroac",
+    "state": "VT",
+    "zip": "77408"
+  },
+  "contact": {
+    "phone": "(561) 578-9438",
+    "servicePhone": "800328713"
+  },
+  "birthday": "1964-08-05T13:30:58.716Z",
+  "ip": "38.119.201.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Gicfe ziborij sa vej ginfe su wobzu eza zudcacene mo siwkut evu japme baumueza tur sal di latvu. Is gip donuku woctefi leaf ben zarzoncof poihusat berzamvuw ji sade hid tun luvekak miwa. Zeruv levfa gajo jija damnawba robubo ofja recenet jej mokenuw nuca uhzoh ifde kauzo faf vi fofad puehmo. Ut edibevi bit pito da niwehig ile ridahuj zuwra ro ne holgu esecate oggi pik siaw firhel fimmuvnok. Ozarim bavo sig cero natifikeb lomciz gogra wa it toruz nuciot vew. Pe isife ziwcajuz bate zepomora gomjipi ze mohikla mahjugad ebu cap efujor vuhice harumhiw.",
+    "bio": "Hisnutbun gej dotu habi wojca pini zullic muudowo zejorru cip uzohinil wumos mosu nobega. Batlu jutha opgit buifli noub lafobge vod makegipa wowju omaget uditeer ni ev uzeji wa. Huvfaig pe batu afgi bawjufev rel ganon kan mo wafulew ifavomi el lun womomu fig jivda. Iwupef ged paf fot wevib jupzojaze hizizku devhozcac gefpalig isoroku zereneh foj iw vito ratanro fecewuwok. Tuf pi upawojgez ce mekli reik pizvim na fu lo suku upa ja nuvahi beuhakok. Wujnaij pun cudkupu row da ve icla egsi rufi lam rikicis monajwen ekubi rihwadfi na celi. Pe ovena newu dusetbag ni tog vabvofvon kewu cedu nijrar ritamma ambimpeh tajogcas cas wagleuri kel."
+  },
+  "apiKey": "f9631dd55828ba94699679317c81e9f3b9a5abbffb0ec921f87261567644eb4b",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
