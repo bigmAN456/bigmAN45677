@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Miller",
+  "age": 43,
+  "address": {
+    "street": "Vocze Ridge",
+    "city": "Ohusavi",
+    "state": "WY",
+    "zip": "21507"
+  },
+  "contact": {
+    "phone": "(289) 505-8979",
+    "servicePhone": "800522735"
+  },
+  "birthday": "1973-03-19T11:57:27.640Z",
+  "ip": "76.63.12.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Zapujcag rifac lubi bewig bocaw diroj ibeihmo gac zu bakcezsis bawelva ugadu howmukcam vebroc pu. Ipatug petetza ijola nulac rozihwo woak kac fiplupduf fozef kof mutozjak esadiep ollo. Voh sazfew zuuhopo bohlit kam nevosni piffebsek wuro igavepmep huccebeg cu opmivus luhbik agizedzo wa regewuk citponna peknoglu.",
+    "bio": "Ighel umfut isrosir wemro subutno olvir wotu zocnego owu sebhe zu veznek sof goonto vifowij. Oma faeppoh et guw odo dow fukarac sapeluwe kotgurud ti wosce dopebi didkut ketow jomfo vi. Ujpe nofefu ro deikihi rafat hofa vo pe izasbu bakomo joeko lacodma."
+  },
+  "apiKey": "6b991ae8af285b32f3bebc353de425bbfcc28946dcdf91a56a5f24a293130d2f",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
